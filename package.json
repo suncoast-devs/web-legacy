@@ -48,7 +48,7 @@
     "react-dom": "17.0.2",
     "react-helmet": "6.1.0",
     "react-stripe-elements": "6.1.2",
-    "sass": "1.35.1",
+    "sass": "1.104.0",
     "styled-components": "5.3.0",
     "whatwg-fetch": "3.6.2"
   },
